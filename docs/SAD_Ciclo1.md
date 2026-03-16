@@ -33,7 +33,7 @@ O sistema precisa estar acessível durante roda a operação logística para gar
 ---
 
 ## 1.3 Diagrama de Contexto (C4 Nível 1)
-![Diagrama LogiTrack](diagrama_logitrack.png)
+![Diagrama LogiTrack](../docs/diagrama_logitrack.png)
 O sistema LogiTrack interage com gestores logísticos, motoriatas e sistemas externos como APIs de mapas e sistemas de estoque.
 
 ## 1.4 Classificação da Estratégia
